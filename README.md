@@ -1,6 +1,7 @@
 # part-3-nlp-sequence-modeling
-
-
+---
+Data Source: https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+---
 ## Task 3: Text Vectorization Explanation
 **Why must text be converted into vectors?**
 Machine learning models perform mathematical operations to find patterns. They cannot natively "read" string characters. Text vectorization is the bridge between human language and machine computation. In this project:
