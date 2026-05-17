@@ -1,0 +1,16 @@
+Sample Predictions from Upgraded Bi-LSTM Model:
+Text: i am checking if there is any scheduled maintenance today
+Actual: neutral | Predicted: neutral
+
+Text: the app experience is smooth and reliable i appreciate the quick response
+Actual: positive | Predicted: positive
+
+Text: can you confirm whether my ticket has been assigned
+Actual: neutral | Predicted: neutral
+
+Text: i have raised multiple tickets but nobody has fixed the problem my ticket number is 88027
+Actual: negative | Predicted: negative
+
+Text: billing is incorrect and i was charged twice this month
+Actual: negative | Predicted: negative
+
